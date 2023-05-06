@@ -11,3 +11,11 @@ ChatGLM
 ChatYuan
 
 ## 相关更新后续持续迭代中
+NLU
+NLG
+Speech:
+  https://github.com/kaldi-asr/kaldi
+  https://github.com/mozilla/DeepSpeech
+  https://github.com/PaddlePaddle/PaddleSpeech
+  https://github.com/espnet/espnet
+  https://github.com/alibaba/Alibaba-MIT-Speech
