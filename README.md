@@ -13,11 +13,11 @@ ChatYuan
 <<<<<<< HEAD
 NLU
 NLG
-Speech:
-  https://github.com/kaldi-asr/kaldi
-  https://github.com/mozilla/DeepSpeech
-  https://github.com/PaddlePaddle/PaddleSpeech
-  https://github.com/espnet/espnet
-  https://github.com/alibaba/Alibaba-MIT-Speech
-=======
+# Speech:
+  ## https://github.com/kaldi-asr/kaldi
+  ## https://github.com/mozilla/DeepSpeech
+  ## https://github.com/PaddlePaddle/PaddleSpeech
+  ## https://github.com/espnet/espnet
+  ## https://github.com/alibaba/Alibaba-MIT-Speech
+===
 基于文本描述通用人工智能基础模型工程技术探索性研究项目
